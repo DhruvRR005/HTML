@@ -1,0 +1,52 @@
+body{
+    font-family: 'Montserat',sans-serif;
+    background-color: #e7fea4;
+    background-image: url('image/bodyshape.jpg');
+    background-repeat: no-repeat;
+}
+
+.headingText{
+    font-size: 32px;
+    font-weight: 600;
+}
+.SubheadingText{
+    font-size: 22px;
+    font-weight: 400;
+}
+.img{
+    
+    width:400px;
+}
+
+.textbox{
+    
+    width: 500px;
+    margin-top: 30px;
+    height: 50px;
+    border: none;
+    border-radius: 48px;
+}
+.textbox::placeholder{
+    padding-left: 40px;
+    font-size: 16px;
+    font-weight: 600;
+}
+.start{
+    width: 500px;
+    height: 50px;
+    border: none;
+    margin-top: 100px;
+    background-color: #1bc2b8;
+    font-size: 20px;
+    font-weight: 600;
+    color: #fff;
+    border-radius: 14px;
+}
+.signin{
+    color: blue;
+    background-color: transparent;
+    border: none;
+    size: 16px;
+    font-weight: bold;
+    
+}

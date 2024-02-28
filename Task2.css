@@ -1,0 +1,116 @@
+body{
+    font-family: 'Roboto Condensed',sans-serif;
+}
+
+.left{
+    width: 60%;
+    height: 1000;
+    background-color: #fac660;
+}
+
+.right{
+    width: 60%;
+    height: 90px;
+}
+
+.sameline{
+    display: flex;
+}
+.heading{
+    font-size: 34px;
+    columns: #fff;
+    padding-top: 120px;
+}
+
+.subHeading{
+    font-size: 34px;
+    color: #fff;
+}
+.footer{
+    font-size: 20px;
+    color:#fff;
+}
+.showRight{
+   display: flex;
+   justify-content:right
+   
+}
+.login{
+    font-size: 32px;
+    text-align: left;
+    color: #fac660;
+    margin-left: 84px;
+    margin-top: 4px;
+ }
+.name{
+   font-size: 20px;
+   text-align: left;
+   color: #999999;
+   margin-left: 84px;
+   margin-top: 40px;
+}
+.password{
+    font-size: 20px;   
+    text-align: left;
+    color: #999999;
+    margin-left: 84px;
+    margin-top: 20px;
+}
+.input{
+    width: 400px;
+    height: 68px;
+    border: 2px solid #cd1616;
+    border-radius: 48px;
+}
+
+
+
+
+
+.textbox{
+width: 425px;
+margin-top: 10px;
+margin-left: 20px;
+height: 48px;
+border: 1px;
+background-color: #fac660;
+border-radius: 30px;
+}
+input::placeholder{
+    font-size: 16px;
+    padding-left: 32px;
+    font-weight: 600;
+    
+}
+.loginbutton{
+    width: 100px;
+    height: 40px;
+    background-color: #fac660;
+    border: none;
+    font-size: 20px;
+    color: #fff;
+    border-radius: 24px;
+}
+.image{
+    width: 300px;
+}
+.imagestart{
+    width: 300px;
+    display: flex;
+}
+
+.signButton{
+    width: 100px;
+    height: 40px;
+    background-color: #fac660;
+    border: none;
+    font-size: 20px;
+    color: #fff;
+    border-radius: 24px;
+}
+
+.samelineWithSpace{
+    display:flex;
+    justify-content: space-between;
+    margin: 48px;
+}

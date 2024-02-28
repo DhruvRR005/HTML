@@ -1,0 +1,40 @@
+body{
+    font-family: 'Montserat',sans-serif;
+    background-color: #e7fea4;
+    background-image: url('image/bodyshape.jpg');
+    background-repeat: no-repeat;
+}
+.imageStart
+{
+    margin-top: 50px;
+}
+
+.headingText{
+    font-size:32px;
+    font-weight: 600;
+}
+
+.card{
+    width: 400px;
+    height: 160px;
+    border: 2px solid #000;
+    border-radius: 24px;
+    margin-top: 100px;
+}
+.cardText{
+    font-size: 20px;
+    font-weight: 500;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.start{
+    width: 400px;
+    height: 50px;
+    border: none;
+    margin-top: 130px;
+    background-color: #1bc2b8;
+    font-size: 20px;
+    font-weight: 600;
+    color: #fff;
+    border-radius: 14px;
+}
